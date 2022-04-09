@@ -1,4 +1,4 @@
-# E-Open Bankier Scrapper
+# Open-e Bankier Scrapper
 
 Tool for scrape Bankier website and get selected informations. These informations are saved in SQLite database.
 
