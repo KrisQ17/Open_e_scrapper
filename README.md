@@ -5,6 +5,7 @@ Tool for scrape Bankier website and get selected informations. These information
 ### Requirements
 - Python 3.9.9
 - Django 4.0.3
+
 The rest of requirements are included in `requirements.txt` file.
 
 ```
